@@ -1,6 +1,5 @@
-/*Modifying the variables inside the function taskBlock so that the 
-variables aren’t overwritten inside the conditional block.*/
-
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-var */
 export default function taskBlock(trueOrFalse) {
   var task = false;
   var task2 = true;
