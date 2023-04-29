@@ -10,5 +10,3 @@ export default function updateStudentGradeByCity(arr, city, newGrades) {
       };
     });
 }
-
-Hh
