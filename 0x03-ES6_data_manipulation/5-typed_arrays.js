@@ -6,3 +6,4 @@ export default function createInt8TypedArray(length, position, value) {
   arr[position] = value;
   return newView;
 }
+
