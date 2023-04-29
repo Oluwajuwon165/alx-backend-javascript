@@ -7,4 +7,3 @@ const updateUniqueItems = (map) => {
 };
 
 export default updateUniqueItems;
-
